@@ -1,0 +1,56 @@
+body{
+    font-family: 'Caveat', cursive;
+font-family: 'Kanit', sans-serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Zen Kurenaido', sans-serif;
+}
+.d-block{
+    border-radius: 50%;
+}
+
+#hero{
+        background-image: linear-gradient(to right, #C5FFF8, #5FBDFF);
+}
+.lead{
+    text-align: justify;
+}
+.myinfo{
+    display: flex;
+    margin-top: 15px;
+    justify-content:center ; 
+    align-items: center;
+    flex-direction: column;
+}
+.mydata{
+    flex: 1;
+    max-width: 700px;
+    padding: 20px;
+}
+#info{
+    font-size: larger;
+    text-align: center;
+}
+.repic{
+    color:black;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    justify-content:center ; 
+    align-items: center;
+}
+.contact div{
+    flex: 1;
+    margin: 10px;
+}
+.btn{
+    font-size: medium;
+}
+
+.giff{
+    border-radius: 5%;
+    height: 150px;
+}
